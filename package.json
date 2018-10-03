@@ -1,0 +1,41 @@
+{
+  "name": "vortex.name",
+  "version": "1.0.0",
+  "description": "https://vortex.name",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "npm run build && next export",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0-vortex/vortex.name.git"
+  },
+  "author": {
+    "name": "TED Vortex",
+    "email": "ted.vortex@gmail.com",
+    "url": "https://linkedin.com/in/tedvortex/"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/0-vortex/vortex.name/issues"
+  },
+  "homepage": "https://github.com/0-vortex/vortex.name#readme",
+  "dependencies": {
+    "next": "^7.0.2-canary.7",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^2.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
