@@ -1,0 +1,9 @@
+/build/**
+/out
+/coverage/**
+/deploy
+/tests/
+test.js
+!.eslintrc.json
+node_modules
+plugin.sketchplugin
