@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Education",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Course",
+        "name": "\"Ioan Alexandru Brătescu-Voinești\" public primary school",
+        "provider": {
+          "@type": "School",
+          "name": "Școala Gimnazială Ioan Alexandru Brătescu-Voinești",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO",
+            "addressLocality": "Târgoviște",
+            "addressRegion": "Dâmbovița",
+            "postalCode": "130016",
+            "streetAddress": "Calea Domnească 252"
+          },
+          "url": "https://sgiabv.ro/"
+        },
+        "about": "Mathematics",
+        "temporalCoverage": "1996-09-10/2004-06-15",
+        "description": "In my 4th year of primary school I achieved the highest grade in county round of the Mathematics Olympics.\nDuring middle school I casually attended the Mathematics Olympics with good county round results but never qualified for the Romanian National Team.\nI was elected class president 3 years running due to my exceptional results and organisational abilities and capacity to get along with a wide range of people across all ages and professions.",
+        "url": "https://goo.gl/maps/pC4uFPAH7P62"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Course",
+        "name": "\"Ienăchiță Văcărescu National College\" public high school",
+        "provider": {
+          "@type": "HighSchool",
+          "name": "Colegiul Național Ienăchiță Văcărescu",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO",
+            "addressLocality": "Târgoviște",
+            "addressRegion": "Dâmbovița",
+            "postalCode": "130016",
+            "streetAddress": "Calea Domnească 235"
+          },
+          "url": "http://www.ienachita.com/"
+        },
+        "about": "Mathematics and Computer Science",
+        "temporalCoverage": "2004-09-10/2008-06-15",
+        "description": "For the first 2 years of high school I reprised my role as class president and my hobby of attending the county round of olympics, this time the C++ Informatics Olympics. \nDuring my final years I took a step down to immerse myself in other topics like Intelligence, Psychology, Technology and Literature.\nI passed the 2008 Romanian Baccalaureate with a 91/100 average score, notable 100/100 on the written Romanian Language and Literature exam.",
+        "url": "https://goo.gl/maps/U8xSRJAdjRN2"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Course",
+        "name": "\"Romanian-American University\" private university",
+        "provider": {
+          "@type": "CollegeOrUniversity",
+          "name": "Universitatea Romano-Americana - URA",
+          "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "RO",
+            "addressLocality": "Bucharest",
+            "addressRegion": "Bucharest",
+            "postalCode": "012101",
+            "streetAddress": "Bulevardul Expoziției 1B"
+          },
+          "url": "https://www.rau.ro/"
+        },
+        "about": "Law",
+        "temporalCoverage": "2008-10-03/2009-04-30",
+        "description": "Studying Law was very rewarding on a personal level and while I dropped out as a freshman that experience is what fueled my involvement into local politics and later on software licensing and business management.\nLearning the history of laws and ethics is something I later on developed into a hobby.",
+        "url": "https://goo.gl/maps/PQ8sguxWWZm"
+      }
+    }
+  ]
+}

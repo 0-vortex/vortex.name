@@ -1,0 +1,125 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Work Experience",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": [
+        "CreativeWork",
+        "ItemList"
+      ],
+      "position": 1,
+      "temporalCoverage": "2014-12-01/2016-05-03",
+      "description": "My main attributions at CWS were:\\n- Following full agile scrum methodologies and work flow via the complete Atlassian tool stack\\n- Collecting requirements from line managers and internal stakeholders\\n- Estimating and planning with project managers with a clear understanding of business goals\\n- Creating and extending user interfaces to fit the requirements of stakeholders\\n- Authoring software solution proposals following internal standards set by senior professionals\\n- Coordinating with customers and application/product engineers to gain sign-off\\n- Development of bespoke web applications, micro-services and APIs\\n- Deployment of web applications to live servers\\n- Implementing custom standardized backend logic for web applications\\n- Understanding and following a hybrid TDD/BDD mindset\\n\\nAside of my normal tasks I was occasionally assigned to:\\n- Integrate and push to distributed systems\\n- Assess and integrate 3rd party APIs\\n- Manage user access control for git repositories and do code reviews\\n- Create web application build plans with functional testing",
+      "workExample": {
+        "@type": "CreativeWork",
+        "dateCreated": "2015-11-01",
+        "genre": "http://vocab.getty.edu/aat/300265431",
+        "isAccessibleForFree": true,
+        "description": "",
+        "sameAs": "http://e2save.com/",
+        "url": "https://web.archive.org/web/20151128043446/http://e2save.com/",
+        "image": "https://www.dixonscarphone.com/~/media/Images/D/Dixons-Carphone/content-images/our-brands-companies/e2save-web.jpg?h=58&la=en&w=150"
+      },
+      "itemListElement": [
+        "Proposed gulp npm package, demonstrated it's usefulness in a live application and passed company standard review",
+        "Authored a micro-service generator(prototype) based on existing technologies",
+        "Lead late development of E2Save.com (2015), working together with senior developers, designers, product managers and business owners"
+      ],
+      "locationCreated": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "UK",
+          "addressLocality": "Loughborough",
+          "addressRegion": "Leicester",
+          "postOfficeBoxNumber": "3R",
+          "postalCode": "LE11 5XH",
+          "streetAddress": "Belton Road West Extension",
+          "disambiguatingDescription": "3R House"
+        }
+      },
+      "sourceOrganization": {
+        "@type": "Organization",
+        "name": "Connected World Services (part of the Carphone Warehouse Group)",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "UK",
+          "addressLocality": "London",
+          "postalCode": "W3 6RS",
+          "streetAddress": "1 Portal Way",
+          "disambiguatingDescription": "Head office"
+        },
+        "brand": {
+          "@type": "Brand",
+          "logo": "https://www.dixonscarphone.com/~/media/Images/D/Dixons-Carphone/content-images/our-brands-companies/carphone-warehouse.jpg",
+          "name": "Carphone Warehouse",
+          "description": "The Carphone Warehouse Ltd. is a British mobile phone retailer, with over 2,400 stores across Europe. It trades as Carphone Warehouse in the United Kingdom and Ireland, and as Phone House elsewhere.",
+          "sameAs": "https://www.dixonscarphone.com/who-we-are/our-brands",
+          "url": "https://www.carphonewarehouse.com/"
+        },
+        "email": "info@connectedworldservices.com",
+        "foundingDate": "2012",
+        "legalName": "Dixons Carphone PLC (DC.L)"
+      },
+      "url": "http://www.connectedworldservices.com/"
+    },
+    {
+      "@type": [
+        "CreativeWork",
+        "ItemList"
+      ],
+      "position": 2,
+      "temporalCoverage": "2013-10-01/2014-11-01",
+      "description": "With mobile devices rising above desktop usage I found myself unable to deliver native-like experiences with the synchronous technologies I was previously using.\\nThis is the main reason I used most of my time consolidating my NodeJS skills and learning Puppet.\\n\\nWhy Puppet ?\\nPuppet is built with a focus on client/server configuration within an infrastructure. However Puppet provides you with an extremely easy method for getting started and between Chef and an early version of Ansible I found Puppet to be the fastest way to power up my CentOS based vagrant environment into a secure production server.\\n\\nWhy NodeJS ?\\n- Modularity: NodeJS provides a module-driven, highly scalable approach to application design, development and deployment that enables development teams to put the most desirable elements of agile methodology into practice.\\n- JS backend: JavaScript on the server with Node further establishes it as the language of the web and its new uses on the server are helping to shape the future of the language itself.\\n- Asynchronous Programming: JavaScript—and Node by extension—was designed for the web and the browser, where nothing is synchronous. Asynchronous JavaScript programs can perform many complex, parallel tasks in the browser. Node takes asynchronicity to the extreme on the server, making it the perfect choice for I/O-heavy and highly concurrent applications.\\n- Module-driven Development: Node encourages developers to think in terms of creating small services that can be easily replaced or updated when necessary. By adopting a module-driven approach, Node developers can deconstruct the functionality of large monolithic applications and redesign them as a series of Node modules, bundled together to form a collection of services. This establishes an elegant simplicity in building scalable application functionality that improves both business and developer agility and leads to greater code-reuse.\\n- Performance: Node represents an attractive compromise between performance concerns and platform approachability for developers. While there are other platforms able to match or exceed the performance of Node, none are as approachable for such a large portion of developers as Node via its reliance on JavaScript. Additionally, Node’s asynchronous programming model encourages performant development practices that are either difficult or risky in other languages and platforms.",
+      "itemListElement": [
+        "I started using CloudFlare because of easy DNS management, static resource optimisation (in conformance with page speed rules), DDoS protection and bandwidth usage. It's a highly customisable tool that I am still using to this date.",
+        "I started using the EX and PX line of dedicated servers from https://www.hetzner.de which I am still using today. I managed multiple production nodes via Puppet in this period of time and Hetzner is my #1 recommendation."
+      ],
+      "url": "https://tedvortex.xyz"
+    },
+    {
+      "@type": [
+        "CreativeWork",
+        "ItemList"
+      ],
+      "position": 3,
+      "temporalCoverage": "2009-06-01/2013-10-01",
+      "description": "My job as Lead Programmer included: \\n- design and development of business critical web applications \\n- management and development of a team of it professionals \\n- project planning and estimates with business holders and customers\\n- provisioning of support and solutions to team members in solving their work tasks\\n- unit testing \\n- performance and security auditing\\n- collaboration with other departments and 3rd party service providers",
+      "workExample": {
+        "@type": "CreativeWork",
+        "dateCreated": "2010-01-30",
+        "genre": "http://vocab.getty.edu/aat/300265431",
+        "isAccessibleForFree": true,
+        "description": "Flax.ro is an online retailer of computer hardware and consumer electronics owned by Flax Computers SRL.\nIt's authorized service provider for the following brands: Asus, Lenovo, HP, Dell, Canon, Kyocera",
+        "sameAs": "https://www.flax.ro/",
+        "url": "https://web.archive.org/web/20110929133913/http://www.flax.ro:80/",
+        "image": "https://www.flax.ro/static/images/logo.png"
+      },
+      "sourceOrganization": {
+        "@type": "Organization",
+        "name": "Expert Vision",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "RO",
+          "addressLocality": "Târgoviște",
+          "addressRegion": "Dâmbovița",
+          "postalCode": "130031",
+          "streetAddress": "Bulevardul Unirii Nr. 2",
+          "disambiguatingDescription": "Head office"
+        },
+        "email": "contact@expertvision.ro",
+        "foundingDate": "2003",
+        "legalName": "COMPUTER FUN SRL"
+      },
+      "itemListElement": [
+        "Created and maintained an in-house PHP content management framework built on top of Zend 2 and Symfony 2 components and following SEO best practices and performance optimisation",
+        "The first commercial project I built and released on this framework was http://www.flax.ro - A versatile and secure LAMP framework that has proven its resilience over time and is still being used and maintained today by my former company",
+        "Managed to watch over planning, development and release over 200 websites with the above mentioned framework; With most of these projects being executed in a team, I've switched roles many times, leveraging from building both the backend and the frontend towards coaching my team and improving the experience of undocumented users",
+        "Created a complete Transbase to MySql database conversion of the TecDoc 2013 program"
+      ],
+      "url": "http://expertvision.ro/en"
+    }
+  ]
+}

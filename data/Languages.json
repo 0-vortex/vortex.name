@@ -1,0 +1,52 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Known Languages",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Language",
+        "name": "Romanian",
+        "alternateName": "ro",
+        "description": "Native proficiency",
+        "url": "https://en.wikipedia.org/wiki/Romanian_language"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Language",
+        "name": "English",
+        "alternateName": "en",
+        "description": "Bilingual proficiency",
+        "url": "https://en.wikipedia.org/wiki/English_language"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Language",
+        "name": "German",
+        "alternateName": "de",
+        "description": "Limited working proficiency",
+        "url": "https://en.wikipedia.org/wiki/German_language"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Language",
+        "name": "French",
+        "alternateName": "fr",
+        "description": "Elementary proficiency",
+        "url": "https://en.wikipedia.org/wiki/French_language"
+      }
+    }
+  ]
+}

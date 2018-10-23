@@ -1,0 +1,85 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Social Profiles",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "WebSite",
+      "position": 1,
+      "name": "GitHub",
+      "description": "0-vortex",
+      "url": "https://github.com/0-vortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 2,
+      "name": "Bitbucket",
+      "description": "tedvortex",
+      "url": "https://bitbucket.org/tedvortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 3,
+      "name": "StackOverflow",
+      "description": "vortex",
+      "url": "http://stackoverflow.com/users/757375/vortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 4,
+      "name": "StackShare",
+      "description": "vrtxf",
+      "url": "http://stackshare.io/vrtxf"
+    },
+    {
+      "@type": "WebSite",
+      "position": 5,
+      "name": "Linkedin",
+      "description": "TED (Teodor Eugen Duțulescu) Vortex",
+      "url": "https://uk.linkedin.com/in/tedvortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 6,
+      "name": "AngeList",
+      "description": "TED Vortex",
+      "url": "https://angel.co/ted-vortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 7,
+      "name": "CrunchBase",
+      "description": "TED Vortex",
+      "url": "https://www.crunchbase.com/user/501304"
+    },
+    {
+      "@type": "WebSite",
+      "position": 8,
+      "name": "Skype",
+      "description": "dutulescu.teodor",
+      "url": "skype:dutulescu.teodor?call"
+    },
+    {
+      "@type": "WebSite",
+      "position": 9,
+      "name": "Twitter",
+      "description": "0_vortex",
+      "url": "https://twitter.com/0_vortex"
+    },
+    {
+      "@type": "WebSite",
+      "position": 10,
+      "name": "SoundCloud",
+      "description": "VORT☰X",
+      "url": "https://soundcloud.com/vorteks"
+    },
+    {
+      "@type": "WebSite",
+      "position": 11,
+      "name": "Last.fm",
+      "description": "vrtxf",
+      "url": "http://www.last.fm/user/vrtxf"
+    }
+  ]
+}

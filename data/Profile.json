@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "name": "TED Vortex",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "RO",
+    "addressLocality": "Bucharest",
+    "addressRegion": "Bucharest",
+    "postOfficeBoxNumber": "93",
+    "postalCode": "061126",
+    "streetAddress": "Bdul. Iuliu Maniu Nr. 244E",
+    "email": "rodoeted@yahoo.com",
+    "disambiguatingDescription": "Rotar Park Residence"
+  },
+  "affiliation": {
+    "@type": "Organization",
+    "email": "tiamat.tech@gmail.com",
+    "foundingDate": "2018-10-06",
+    "foundingLocation": "Estonia",
+    "legalName": "tiamat tech OÜ",
+    "taxID": "47302200234",
+    "vatID": "123456789",
+    "telephone": "+40754345624",
+    "name": "Tiamat Tech LLC",
+    "url": "https://tiamat.tech"
+  },
+  "birthDate": "1989-02-27",
+  "birthPlace": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "RO",
+      "addressLocality": "Târgoviște",
+      "addressRegion": "Dâmbovița",
+      "postOfficeBoxNumber": "48",
+      "postalCode": "130083",
+      "streetAddress": "Tudor Vladimirescu"
+    }
+  },
+  "email": "ted.vortex@gmail.com",
+  "familyName": "Duțulescu",
+  "givenName": "Teodor-Eugen",
+  "gender": "Male",
+  "honorificPrefix": "Mr.",
+  "jobTitle": "ideaesthesic software architect / grey hat / alpha omega stack",
+  "nationality": "RO",
+  "netWorth": 0,
+  "height": "172 cm.",
+  "weight": "53 kg.",
+  "alternateName": "VORTEX",
+  "image": "https://gist.githubusercontent.com/0-vortex/7711f37e4b16a26e5b8f4e723831dd49/raw/a76098c4c91c7caf592366c4ff2c84a84cf1839c/TED%2520Vortex.jpg",
+  "sameAs": [
+    "https://uk.linkedin.com/in/tedvortex",
+    "https://angel.co/ted-vortex",
+    "https://github.com/0-vortex",
+    "https://bitbucket.org/tedvortex",
+    "http://stackoverflow.com/users/757375/vortex",
+    "http://stackshare.io/vrtxf",
+    "https://www.crunchbase.com/user/501304",
+    "https://twitter.com/0_vortex"
+  ]
+}

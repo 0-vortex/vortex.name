@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Endorsements",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "EndorseAction",
+        "agent": {
+          "@type": "Person",
+          "name": "Loukia Poutziouris",
+          "url": "https://www.linkedin.com/in/loukiapoutziouris"
+        },
+        "location": {
+          "@type": "PostalAddress",
+          "addressCountry": "UK",
+          "addressLocality": "Nottingham",
+          "addressRegion": "Nottinghamshire"
+        },
+        "description": "It was great to work with Ted, he is a charismatic and very talented at what he does. He pays attention to every little detail and it was a pleasure to work with him during the recruitment process. He communicated very well with me throughout the process and I took care in listening to his needs, taking these into account to help him in the best way possible. Ted impressed me with his experience in PHP and is clearly passionate about a career in PHP Development. I wish him every success in his new role and I am sure he will do very well.",
+        "url": "https://www.linkedin.com/in/tedvortex/"
+      }
+    }
+  ]
+}

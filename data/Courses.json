@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Courses",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "Course",
+      "position": 1,
+      "courseCode": "P5B LNW AQE",
+      "educationalCredentialAwarded": "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code",
+      "name": "Google Digital Garage",
+      "description": "The Digital Garage from Google is a free service that helps you increase your knowledge of all things digital, from websites and tracking to online marketing and beyond.\n\nSharpen up the digital skills you need to grow your business, your career or just your confidence. It’s really easy to get learning.\n\nYou’ll find a range of subjects, designed to help you grow your digital knowledge from Social Media to Search Engines.\n\nChoose the topics you want to learn, or complete the whole online course for a certification from Google and IAB Europe.\n\n",
+      "award": "Fundamentals of Digital Marketing Certification",
+      "dateCreated": "2016-06-28T10:47:00Z",
+      "provider": {
+        "@type": "Organization",
+        "name": "Google LLC",
+        "address": {
+          "@type": "PostalAddress",
+          "addressCountry": "US",
+          "addressLocality": "Mountain View",
+          "addressRegion": "CA",
+          "postalCode": "94043",
+          "streetAddress": "1600 Amphitheatre Pkwy",
+          "disambiguatingDescription": "Googleplex Corporate Headquarters"
+        },
+        "founders": [
+          {
+            "@type": "Person",
+            "name": "Larry Page",
+            "url": "https://en.wikipedia.org/wiki/Larry_Page"
+          },
+          {
+            "@type": "Person",
+            "name": "Sergey Brin",
+            "url": "https://en.wikipedia.org/wiki/Sergey_Brin"
+          }
+        ],
+        "foundingDate": "1998-09-04",
+        "url": "https://google.com/"
+      },
+      "image": "https://gist.github.com/0-vortex/7711f37e4b16a26e5b8f4e723831dd49/raw/893d3e67aec606d4228cb21fb5a09fcafef4ff7e/The%2520Digital%2520Garage%2520Certification.pdf",
+      "url": "https://learndigital.withgoogle.com/digitalgarage"
+    }
+  ]
+}

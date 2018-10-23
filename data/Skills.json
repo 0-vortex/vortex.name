@@ -1,0 +1,143 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ItemList",
+  "name": "Technology Skills",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "ItemList",
+        "name": "Industry Expertise",
+        "itemListElement": [
+          "BlockChain",
+          "Object Oriented Programming",
+          "MVC",
+          "Unit Testing",
+          "Android Applications",
+          "iOS Applications",
+          "Microservices",
+          "Agile Methodologies",
+          "Cloud Computing",
+          "Virtualisation",
+          "Data Mining",
+          "REST APIs",
+          "DevOps",
+          "SecOps",
+          "SEO",
+          "SEM",
+          "Process Design",
+          "Design Language Systems"
+        ],
+        "url": "https://vortex.name/skills#expertise"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "ItemList",
+        "name": "Professed Programming Languages",
+        "itemListElement": [
+          "ECMAScript",
+          "Bash",
+          "Ruby",
+          "Go",
+          "Git"
+        ],
+        "url": "https://vortex.name/skills#used-languages"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "ItemList",
+        "name": "Comfortable Programming Languages",
+        "itemListElement": [
+          "AppleScript",
+          "AutoIt",
+          "Assembly",
+          "C++",
+          "CoffeeScript",
+          "Google Apps Script",
+          "Java",
+          "JavaScript",
+          "JSON",
+          "LaTeX",
+          "Lua",
+          "Objective-C",
+          "Perl",
+          "PHP",
+          "PowerShell",
+          "Python",
+          "Rust",
+          "Scala",
+          "Solidity",
+          "SQL",
+          "Swift",
+          "TypeScript",
+          "WebAssembly"
+        ],
+        "url": "https://vortex.name/skills#known-languages"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "ItemList",
+        "name": "Technologies",
+        "itemListElement": [
+          "React",
+          "React Native",
+          "Docker",
+          "GraphQL",
+          "MongoDB",
+          "AeroSpike",
+          "Redis",
+          "ElasticSearch"
+        ],
+        "url": "https://vortex.name/skills#technologies"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "ItemList",
+        "name": "Platform Tools",
+        "itemListElement": [
+          "JetBrains",
+          "Atom",
+          "VS Code",
+          "KeyBase",
+          "Sketch",
+          "Lunacy",
+          "Adobe Photoshop",
+          "Adobe Illustrator"
+        ],
+        "url": "https://vortex.name/skills#tools"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "ItemList",
+        "name": "3rd Party Services",
+        "itemListElement": [
+          "Google Cloud Platform",
+          "Amazon Web Services",
+          "VMWare",
+          "Heroku",
+          "Google App Engine",
+          "Google Analytics",
+          "Google Maps"
+        ],
+        "url": "https://vortex.name/skills#cloud"
+      }
+    }
+  ]
+}
