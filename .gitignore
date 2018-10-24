@@ -87,7 +87,7 @@ fabric.properties
 .idea/httpRequests
 
 # Project
-.idea/**/nextjs-starter-kit.iml
+.idea/**/*.iml
 .idea/compiler.xml
 .idea/codeStyles
 .idea/copyright
