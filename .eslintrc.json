@@ -2,6 +2,9 @@
   "root": true,
   "parser": "babel-eslint",
   "extends": "airbnb",
+  "plugins": [
+    "emotion"
+  ],
   "globals": {
     "React$Component": true,
     "React$Element": true,

@@ -1,6 +1,6 @@
-# [vortex.name](https://vortex.name) [![License](http://img.shields.io/:license-BSD3-blue.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)  
+# :rocket: :construction: [vortex.name](https://vortex.name)   
 
-[![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
+[![License](http://img.shields.io/:license-BSD3-blue.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
 
 [![Dependency Status](https://david-dm.org/0-vortex/vortex.name.svg)](https://david-dm.org/0-vortex/vortex.name) [![devDependency Status](https://david-dm.org/0-vortex/vortex.name/dev-status.svg)](https://david-dm.org/0-vortex/vortex.name#info=devDependencies) 
 
@@ -8,7 +8,7 @@
 
 ## Overview
 
-This is a static rendered react project meant to define a 2018 valid technology stack and serve as a simple resume.
+This is a static rendered react project meant to define a 2018 valid technology stack and serve as a simple resume. It's been developed with [WebStorm](https://www.jetbrains.com/webstorm/) but you can edit it with any [EditorConfig](https://editorconfig.org/) able IDE.
 
 ## How to use
 
