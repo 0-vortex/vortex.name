@@ -2,7 +2,7 @@
 
 [![License](http://img.shields.io/:license-BSD3-blue.svg?style=flat-square)](https://opensource.org/licenses/BSD-3-Clause) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
 
-[![Dependency Status](https://david-dm.org/0-vortex/vortex.name.svg)](https://david-dm.org/0-vortex/vortex.name) [![devDependency Status](https://david-dm.org/0-vortex/vortex.name/dev-status.svg)](https://david-dm.org/0-vortex/vortex.name#info=devDependencies) 
+[![Build Status](https://travis-ci.org/0-vortex/vortex.name.svg?branch=master)](https://travis-ci.org/0-vortex/vortex.name) [![Dependency Status](https://david-dm.org/0-vortex/vortex.name.svg)](https://david-dm.org/0-vortex/vortex.name) [![devDependency Status](https://david-dm.org/0-vortex/vortex.name/dev-status.svg)](https://david-dm.org/0-vortex/vortex.name#info=devDependencies) 
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fc681c0242d338641ce6/maintainability)](https://codeclimate.com/github/0-vortex/vortex.name/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/fc681c0242d338641ce6/test_coverage)](https://codeclimate.com/github/0-vortex/vortex.name/test_coverage)
 

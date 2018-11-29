@@ -1,3 +1,5 @@
+/** @jsx jsx */
+import { jsx } from '@emotion/core';
 import React from 'react';
 import Head from 'next/head';
 import styled from '@emotion/primitives';

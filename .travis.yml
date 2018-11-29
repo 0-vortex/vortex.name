@@ -7,7 +7,6 @@ language: node_js
 node_js:
   - "11.3"
 cache: npm
-script: npm run build
 after_success:
   - npm run export
 env:

@@ -8,7 +8,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "export": "rm -rf node_modules/.cache && npm run build && next export",
+    "export": "rm -rf node_modules/.cache out/ && npm run build && next export",
     "commit": "git-cz",
     "lint": "eslint . --fix"
   },

@@ -23,6 +23,8 @@ module.exports = {
     }
 
     await copyFile(join(dir, `${deploy}CNAME`), join(outDir, 'CNAME'));
+    await copyFile(join(dir, `${deploy}.nojekyll`), join(outDir, '.nojekyll'));
+
     return defaultPathMap;
   },
 };
