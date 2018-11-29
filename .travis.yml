@@ -1,0 +1,30 @@
+sudo: required
+dist: xenial
+branches:
+  except:
+    - /^(v\d+\.\d+\.\d+)|gh-pages$/
+language: node_js
+node_js:
+  - "11.3"
+cache: npm
+script: npm run build
+after_success:
+  - npm run export
+env:
+  - NODE_ENV=production
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  on:
+    branch: master
+  local-dir: out
+  target-branch: gh-pages
+  keep-history: true
+  fqdn: vortex.name
+  email: deploy@travis-ci.org
+  name: Travis CI
+  committer-from-gh: false
+  allow-empty-commit: true
+  verbose: true
+
