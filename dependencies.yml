@@ -1,0 +1,23 @@
+version: 2
+dependencies:
+  - type: js
+    path: .
+    settings:
+      constraint_prefix: "^"
+      node_env: production
+      npmrc: |
+        registry=https://skimdb.npmjs.com/registry
+        isFromCI=true
+      dist_tags:
+        semantic-release: latest
+      commit_message_prefix: "ci(Deps): "
+      pullrequest_notes: This is an automated pull request updating npm dependencies.
+      related_pr_behavior: close
+
+      # github options
+      github_labels:
+        - dependencies
+      github_assignees:
+        - 0-vortex
+      github_milestone: 3
+      github_base_branch: master
