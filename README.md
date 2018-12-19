@@ -1,6 +1,7 @@
 # :rocket: :construction: [vortex.name](https://vortex.name) [![GitHub License](https://img.shields.io/github/license/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/blob/master/LICENSE)   
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name?ref=badge_shield)
+
 
 [![Build Status](https://travis-ci.org/0-vortex/vortex.name.svg?branch=master)](https://travis-ci.org/0-vortex/vortex.name) [![Dependency Status](https://david-dm.org/0-vortex/vortex.name.svg)](https://david-dm.org/0-vortex/vortex.name) [![devDependency Status](https://david-dm.org/0-vortex/vortex.name/dev-status.svg)](https://david-dm.org/0-vortex/vortex.name#info=devDependencies) 
 
@@ -81,3 +82,6 @@ npm run commit
     CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
     OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
     OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name?ref=badge_large)
