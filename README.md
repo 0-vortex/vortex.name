@@ -1,16 +1,29 @@
 # :rocket: :construction: [vortex.name](https://vortex.name) [![GitHub License](https://img.shields.io/github/license/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/blob/master/LICENSE)   
 
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name?ref=badge_shield) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![GitHub issues](https://img.shields.io/github/issues/0-vortex/vortex.name.svg)](https://github.com/0-vortex/vortex.name/issues) 
 
 [![Build Status](https://travis-ci.org/0-vortex/vortex.name.svg?branch=master)](https://travis-ci.org/0-vortex/vortex.name) [![Dependency Status](https://david-dm.org/0-vortex/vortex.name.svg)](https://david-dm.org/0-vortex/vortex.name) [![devDependency Status](https://david-dm.org/0-vortex/vortex.name/dev-status.svg)](https://david-dm.org/0-vortex/vortex.name#info=devDependencies) 
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/fc681c0242d338641ce6/maintainability)](https://codeclimate.com/github/0-vortex/vortex.name/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/fc681c0242d338641ce6/test_coverage)](https://codeclimate.com/github/0-vortex/vortex.name/test_coverage)
 
-[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/0)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/0)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/1)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/1)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/2)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/2)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/3)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/3)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/4)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/4)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/5)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/5)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/6)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/6)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/7)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/7)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F0-vortex%2Fvortex.name?ref=badge_large)
+
+[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/0)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/0)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/1)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/1)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/2)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/2)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/3)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/3)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/4)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/4)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/5)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/5)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/6)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/6)[![](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/images/7)](https://sourcerer.io/fame/0-vortex/0-vortex/vortex.name/links/7) 
 
 ## Overview
 
-This is a static rendered react project meant to define a 2018 valid technology stack and serve as a simple resume. It's been developed with [WebStorm](https://www.jetbrains.com/webstorm/) but you can edit it with any [EditorConfig](https://editorconfig.org/) able IDE.
+This is a static rendered react project meant to define a 2019 valid technology stack and serve as a simple resume. It's been developed with [WebStorm](https://www.jetbrains.com/webstorm/) but you can edit it with any [EditorConfig](https://editorconfig.org/) able IDE.
+
+View [3rd party software components](https://app.fossa.io/attribution/5a81dac0-c205-4f51-97ce-29561363537e) for vortex.name
+
+### 3rd party integrations
+
+- [Travis CI](https://travis-ci.org): continuous integration and delivery to live website
+- [David DM](https://david-dm.org): dependency checks with status badges
+- [Dependencies.io]: dependency updates with github integration 
+- [Code Climate](https://codeclimate.com): code quality assessment with status badges
+- [FOSSA](https://fossa.io): dependency graph license checker for application delivery
+- [Sourcerer](https://sourcerer.io): github commit and activity analyzer 
 
 ## How to use
 

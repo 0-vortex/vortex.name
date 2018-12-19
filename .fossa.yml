@@ -1,0 +1,11 @@
+version: 1
+cli:
+  server: https://app.fossa.io
+  fetcher: custom
+  project: git@github.com:0-vortex/vortex.name.git
+analyze:
+  modules:
+  - name: .
+    type: npm
+    target: .
+    path: .
